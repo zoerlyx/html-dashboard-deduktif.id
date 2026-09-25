@@ -1,3 +1,6 @@
 [submodule "tren-unggahan-loker-deduktif.id"]
 	path = tren-unggahan-loker-deduktif.id
 	url = https://github.com/zoerlyx/tren-unggahan-loker-deduktif.id
+[submodule "lokasi-pelabuhan-deduktif.id"]
+	path = lokasi-pelabuhan-deduktif.id
+	url = https://github.com/zoerlyx/lokasi-pelabuhan-deduktif.id
