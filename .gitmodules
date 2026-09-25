@@ -10,3 +10,6 @@
 [submodule "aduan-dfw-deduktif.id"]
 	path = aduan-dfw-deduktif.id
 	url = https://github.com/zoerlyx/aduan-dfw-deduktif.id
+[submodule "kasbon-gaji-kontrak-deduktif.id"]
+	path = kasbon-gaji-kontrak-deduktif.id
+	url = https://github.com/zoerlyx/kasbon-gaji-kontrak-deduktif.id
