@@ -4,3 +4,9 @@
 [submodule "lokasi-pelabuhan-deduktif.id"]
 	path = lokasi-pelabuhan-deduktif.id
 	url = https://github.com/zoerlyx/lokasi-pelabuhan-deduktif.id
+[submodule "pola-modus-deduktif.id"]
+	path = pola-modus-deduktif.id
+	url = https://github.com/zoerlyx/pola-modus-deduktif.id
+[submodule "aduan-dfw-deduktif.id"]
+	path = aduan-dfw-deduktif.id
+	url = https://github.com/zoerlyx/aduan-dfw-deduktif.id
