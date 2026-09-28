@@ -19,3 +19,6 @@
 [submodule "viz-02_komposisi-sampah-nasional-deduktif.id"]
 	path = viz-02_komposisi-sampah-nasional-deduktif.id
 	url = https://github.com/zoerlyx/viz-02_komposisi-sampah-nasional-deduktif.id
+[submodule "viz-03_gwp-metana-vs-co2-deduktif.id"]
+	path = viz-03_gwp-metana-vs-co2-deduktif.id
+	url = https://github.com/zoerlyx/viz-03_gwp-metana-vs-co2-deduktif.id
