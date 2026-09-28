@@ -14,5 +14,5 @@
 	path = kasbon-gaji-kontrak-deduktif.id
 	url = https://github.com/zoerlyx/kasbon-gaji-kontrak-deduktif.id
 [submodule "sub-repo-6"]
-	path = sub-repo-6
+	path = viz-01-rantai-sebab-akibat-deduktif.id
 	url = https://github.com/zoerlyx/viz-01_rantai-sebab-akibat-deduktif.id
