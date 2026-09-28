@@ -16,3 +16,6 @@
 [submodule "sub-repo-6"]
 	path = viz-01-rantai-sebab-akibat-deduktif.id
 	url = https://github.com/zoerlyx/viz-01_rantai-sebab-akibat-deduktif.id
+[submodule "viz-02_komposisi-sampah-nasional-deduktif.id"]
+	path = viz-02_komposisi-sampah-nasional-deduktif.id
+	url = https://github.com/zoerlyx/viz-02_komposisi-sampah-nasional-deduktif.id
